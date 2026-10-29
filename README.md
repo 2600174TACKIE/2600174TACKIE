@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi i'm L\CPL TACKIE NS
 
-<!--
-**2600174TACKIE/2600174TACKIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student at Ghana Armed Forces School of Information and Technology
 
-Here are some ideas to get you started:
+ <strong>COURSES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- _COMPUTER NETWORKING_
+
+- _COMPUTER SOFTWARE/GRAPHIC DESIGN_
+
+- _COMPUTER HARDWARE_
+
+- _CYBERSECURITY,DIGITAL FORENSICS, AND ARTFICIAL INTELLIGENCE_
+
+
+
+
+
+##  EMAIL:THEBOY4011@GMAIL.COM
